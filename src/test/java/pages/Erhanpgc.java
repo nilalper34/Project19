@@ -5,6 +5,7 @@ import utilities.Driver;
 
 public class Erhanpgc {
     public Erhanpgc() {
+
         PageFactory.initElements(Driver.getDriver(),this);
     }
 }

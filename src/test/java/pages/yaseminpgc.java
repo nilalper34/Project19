@@ -13,7 +13,7 @@ public class yaseminpgc {
 
   @FindBy(xpath = "(//*[text()='Sign In'])[1]")
     public WebElement ilkSign_inButonu;
-
+//otomassyon
 
 
 }
