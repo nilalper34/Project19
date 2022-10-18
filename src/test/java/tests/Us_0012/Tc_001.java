@@ -10,7 +10,7 @@ yaseminpgc yaseminpgc=new yaseminpgc();
 
 @Test
 public  void test01(){
-    Driver.getDriver().get(ConfigReader.getProperty("HubcomfyUrl"));
+    Driver.getDriver().get(ConfigReader.getProperty("hubcomfyUrl"));
 
     yaseminpgc.ilkSign_inButonu.click();
     Driver.closeDriver();
