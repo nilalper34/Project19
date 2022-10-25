@@ -17,108 +17,108 @@
 
     <dependencies>
 
-<!-- Ekleyecegimiz tum dependency'leri dependencies taginin icine eklemeliyizaksi takdirde projemiz calismaz -->
+        <!-- Ekleyecegimiz tum dependency'leri dependencies taginin icine eklemeliyizaksi takdirde projemiz calismaz -->
 
 
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-
-
-        <dependency>
-
-    <groupId>org.seleniumhq.selenium</groupId>
-
-    <artifactId>selenium-java</artifactId>
-
-    <version>4.1.3</version>
-
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-
-        <dependency>
-
-    <groupId>io.github.bonigarcia</groupId>
-
-    <artifactId>webdrivermanager</artifactId>
-
-    <version>5.1.0</version>
-
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 
 
         <dependency>
 
-    <groupId>com.github.javafaker</groupId>
+            <groupId>org.seleniumhq.selenium</groupId>
 
-    <artifactId>javafaker</artifactId>
+            <artifactId>selenium-java</artifactId>
 
-    <version>1.0.2</version>
+            <version>4.1.3</version>
 
-</dependency>
+        </dependency>
 
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-
-        <dependency>
-
-    <groupId>org.apache.poi</groupId>
-
-    <artifactId>poi</artifactId>
-
-    <version>5.2.2</version>
-
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 
         <dependency>
 
-    <groupId>org.apache.poi</groupId>
+            <groupId>io.github.bonigarcia</groupId>
 
-    <artifactId>poi-ooxml</artifactId>
+            <artifactId>webdrivermanager</artifactId>
 
-    <version>5.2.2</version>
+            <version>5.1.0</version>
 
-</dependency>
+        </dependency>
 
-<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+        <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
 
-        <dependency>
-
-    <groupId>org.apache.logging.log4j</groupId>
-
-    <artifactId>log4j-core</artifactId>
-
-    <version>2.17.1</version>
-
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 
         <dependency>
 
-    <groupId>org.testng</groupId>
+            <groupId>com.github.javafaker</groupId>
 
-    <artifactId>testng</artifactId>
+            <artifactId>javafaker</artifactId>
 
-    <version>7.5</version>
+            <version>1.0.2</version>
 
-    <scope>test</scope>
+        </dependency>
 
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 
         <dependency>
 
-    <groupId>com.aventstack</groupId>
+            <groupId>org.apache.poi</groupId>
 
-    <artifactId>extentreports</artifactId>
+            <artifactId>poi</artifactId>
 
-    <version>4.0.9</version>
+            <version>5.2.2</version>
 
-</dependency>
+        </dependency>
 
-</dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+
+        <dependency>
+
+            <groupId>org.apache.poi</groupId>
+
+            <artifactId>poi-ooxml</artifactId>
+
+            <version>5.2.2</version>
+
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+
+        <dependency>
+
+            <groupId>org.apache.logging.log4j</groupId>
+
+            <artifactId>log4j-core</artifactId>
+
+            <version>2.17.1</version>
+
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+
+        <dependency>
+
+            <groupId>org.testng</groupId>
+
+            <artifactId>testng</artifactId>
+
+            <version>7.5</version>
+
+            <scope>test</scope>
+
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+
+        <dependency>
+
+            <groupId>com.aventstack</groupId>
+
+            <artifactId>extentreports</artifactId>
+
+            <version>4.0.9</version>
+
+        </dependency>
+
+    </dependencies>
 </project>
