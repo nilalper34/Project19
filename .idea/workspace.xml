@@ -5,28 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/MustafaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Mustafapgc.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_08/TC_001_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_08/TC_002_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_09/TC_001_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_09/TC_002_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_09/TC_003_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_10/TC_001_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_10/TC_002_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_11/TC_001_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_11/TC_002_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_11/TC_003_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_11/TC_004_WithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AbdullahReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Abdullahpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Abdullahpgc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +49,44 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Proje19/Project19/src/test/java/tests/US_22"
+    "last_opened_file_path": "E:/PROJECT/Project19/src/test/java/tests/US_11"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PROJECT\Project19\src\test\java\tests\US_11" />
+      <recent name="E:\PROJECT\Project19\src\test\java\tests\US_10" />
+      <recent name="E:\PROJECT\Project19\src\test\java\tests\US_09" />
+      <recent name="E:\PROJECT\Project19\src\test\java\tests\US_08" />
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_22" />
-      <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_02" />
-      <recent name="D:\com_Batch81UNIT\Project19\src\test\java\utilities" />
-      <recent name="D:\com_Batch81UNIT\Batch81_proje19_testNG\src\test\testler" />
-      <recent name="D:\com_Batch81UNIT\Batch81_proje19_testNG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PROJECT\Project19\target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
       <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US22_TC04">
+  <component name="RunManager" selected="TestNG.TC_001_WithMethods.testCase001">
+    <configuration name="TC_001_WithMethods.testCase001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_08" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_08.TC_001_WithMethods" />
+      <option name="METHOD_NAME" value="testCase001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tc_001.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch81_proje19_testNG" />
       <extension name="coverage">
@@ -128,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TC_001_WithMethods.testCase001" />
         <item itemvalue="TestNG.US22_TC04" />
         <item itemvalue="TestNG.US02_TC01" />
         <item itemvalue="TestNG.Tc_001.test01" />
