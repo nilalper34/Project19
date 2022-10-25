@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/MustafaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Mustafapgc.java" beforeDir="false" />
+    <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="26.10">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_21/US21_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_21/US21_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_21/US21_TC03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Ahmetpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Ahmetpgc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Proje19/Project19/src/test/java/tests/US_22"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Desktop/Proje19/Project19/src/test/java/tests/US_22&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_22" />
@@ -131,6 +119,8 @@
         <item itemvalue="TestNG.US22_TC04" />
         <item itemvalue="TestNG.US02_TC01" />
         <item itemvalue="TestNG.Tc_001.test01" />
+        <item itemvalue="TestNG.US22_TC04" />
+        <item itemvalue="TestNG.US02_TC01" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666043676646</updated>
     </task>
+    <task id="LOCAL-00001" summary="26.10">
+      <created>1666733335520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666733335520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +153,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="26.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="26.10" />
   </component>
 </project>
