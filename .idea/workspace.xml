@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="" />
+    <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/MustafaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Mustafapgc.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,25 +52,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/com_Batch81UNIT/Project19/src/test/java/utilities&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Proje19/Project19/src/test/java/tests/US_22"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_22" />
+      <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_02" />
       <recent name="D:\com_Batch81UNIT\Project19\src\test\java\utilities" />
       <recent name="D:\com_Batch81UNIT\Batch81_proje19_testNG\src\test\testler" />
       <recent name="D:\com_Batch81UNIT\Batch81_proje19_testNG" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
+      <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.US22_TC04">
     <configuration name="Tc_001.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch81_proje19_testNG" />
       <extension name="coverage">
@@ -66,8 +92,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="US02_TC01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_02" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_02.US02_TC01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US22_TC04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_22" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_22.US22_TC04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.US22_TC04" />
+        <item itemvalue="TestNG.US02_TC01" />
         <item itemvalue="TestNG.Tc_001.test01" />
       </list>
     </recent_temporary>
