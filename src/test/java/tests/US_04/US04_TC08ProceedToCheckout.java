@@ -1,6 +1,6 @@
 package tests.US_04;
 
-import jdk.jfr.Description;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
