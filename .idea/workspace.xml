@@ -7,6 +7,17 @@
 
     <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
 
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0012/TC_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_12/TC_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0012/TC_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_12/TC_003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0012/TC_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_12/TC_004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0012/Tc_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_12/Tc_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0016/TC_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_16/TC_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0016/TC_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_16/TC_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0016/TC_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_16/TC_003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_0019/Tc_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_19/Tc_001.java" afterDir="false" />
+
+
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_08/TC_001_WithMethods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_08/TC_002_WithMethods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_09/TC_001_WithMethods.java" afterDir="false" />
@@ -67,6 +78,7 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/Erhanpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Erhanpgc.java" afterDir="false" />
 
 
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +122,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
 
+    "last_opened_file_path": "D:/com_Batch81UNIT/Project19/src/test/java/tests"
+
+
     "last_opened_file_path": "E:/PROJECT/Project19/src/test/java/tests/US_11"
 
 
@@ -118,10 +133,14 @@
     "last_opened_file_path": "D:/008.TestNGProjects/Project19_Hubcomfy/Project19/src/test/java/tests/US_04"
 
 
+
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+
+      <recent name="D:\com_Batch81UNIT\Project19\src\test\java\tests" />
+
 
       <recent name="E:\PROJECT\Project19\src\test\java\tests\US_11" />
       <recent name="E:\PROJECT\Project19\src\test\java\tests\US_10" />
@@ -140,11 +159,11 @@
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_02" />
 
       <recent name="D:\008.TestNGProjects\Project19_Hubcomfy\Project19\src\test\java\tests\US_04" />
+
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_22" />
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_02" />
       <recent name="D:\com_Batch81UNIT\Project19\src\test\java\utilities" />
       <recent name="D:\com_Batch81UNIT\Batch81_proje19_testNG\src\test\testler" />
-
 
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -158,6 +177,15 @@
       <module name="Batch81_proje19_testNG" />
       <extension name="coverage">
         <pattern>
+
+          <option name="PATTERN" value="tests.US_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Us_0012" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_12.Tc_001" />
+      <option name="METHOD_NAME" value="test01" />
+
           <option name="PATTERN" value="tests.US_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -165,6 +193,7 @@
       <option name="PACKAGE_NAME" value="tests.US_08" />
       <option name="MAIN_CLASS_NAME" value="tests.US_08.TC_001_WithMethods" />
       <option name="METHOD_NAME" value="testCase001" />
+
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
