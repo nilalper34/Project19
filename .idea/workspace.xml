@@ -4,27 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42205a9e-2c31-468c-a62e-d23ce6be02ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_20/US20_TC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_20/US20_TC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_20/US20_TC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_20/US20_TC04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/hayrullahpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/hayrullahpgc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC08ProceedToCheckout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC08ProceedToCheckout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager" selected="TestNG.TC_001_WithMethods">
-    <configuration name="TC_001_WithMethods" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch81_proje19_testNG" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="hayrullah" />
+                    <option name="lastUsedInstant" value="1666796417" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1666796183" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ggn5qv50mVsjjbhLFLzemPtnSR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/PC/Desktop/Proje19/Project19"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Proje19\Project19\src\test\java\tests\US_20" />
+      <recent name="C:\Users\PC\Desktop\Proje19\Project19\src\test\java\tests\US_03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.US_03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.US20_TC04">
+    <configuration name="US20_TC01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.US_08.*" />
+          <option name="PATTERN" value="tests.US_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.US_08" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_08.TC_001_WithMethods" />
+      <option name="PACKAGE_NAME" value="tests.US_20" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC01" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -32,16 +97,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US02_TC01ValidSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Batch81_proje19_testNG" />
+    <configuration name="US20_TC01.us20_tc01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.US_04.*" />
+          <option name="PATTERN" value="tests.US_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.US_04" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_04.US02_TC01ValidSignIn" />
+      <option name="PACKAGE_NAME" value="tests.US_20" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC01" />
+      <option name="METHOD_NAME" value="us20_tc01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US20_TC02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_20" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC02" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US20_TC03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_20" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC03" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US20_TC04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_20" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC04" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -51,12 +168,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_001_WithMethods" />
-        <item itemvalue="TestNG.US02_TC01ValidSignIn" />
+        <item itemvalue="TestNG.US20_TC04" />
+        <item itemvalue="TestNG.US20_TC03" />
+        <item itemvalue="TestNG.US20_TC02" />
+        <item itemvalue="TestNG.US20_TC01" />
+        <item itemvalue="TestNG.US20_TC01.us20_tc01" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="" />
+      <created>1666818913650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666818913650</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
