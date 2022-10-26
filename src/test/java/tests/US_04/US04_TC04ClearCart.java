@@ -25,5 +25,7 @@ public class US04_TC04ClearCart {
 
         jse.executeScript("arguments[0].scrollIntoView(true);", erhanpgc.clearCartButton);
         jse.executeScript("arguments[0].click();", erhanpgc.clearCartButton);
+
+        Driver.getDriver().quit();
     }
 }

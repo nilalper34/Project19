@@ -95,7 +95,9 @@ public class US04_TC01AddFiveItems {
         Assert.assertTrue(itemAmount,"Check item amounts");
         Assert.assertTrue(itemSubtotal,"Check item subtotals");
 
-        softAssert.assertAll("Ceheck item numbers");
+        //softAssert.assertAll("Check item numbers");
+
+        //Driver.getDriver().quit();
 
     }
 }

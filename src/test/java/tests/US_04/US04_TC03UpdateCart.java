@@ -39,6 +39,8 @@ public class US04_TC03UpdateCart {
         jse.executeScript("arguments[0].scrollIntoView(true);", erhanpgc.updateCartButton);
         jse.executeScript("arguments[0].click();", erhanpgc.updateCartButton);
 
+        Driver.getDriver().quit();
+
 
     }
 }

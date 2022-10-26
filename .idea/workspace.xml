@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="26.10">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US02_TC01ValidSignIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC01AddFiveItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC02ChangeItemAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC03UpdateCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC04ClearCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC05CouponChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC06ContinueShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC07ShippingInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC08ProceedToCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Erhanpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Erhanpgc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US02_TC01ValidSignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US02_TC01ValidSignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC01AddFiveItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC01AddFiveItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC02ChangeItemAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC02ChangeItemAmount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC03UpdateCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC03UpdateCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC04ClearCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC04ClearCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC05CouponChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC05CouponChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC06ContinueShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC06ContinueShopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC07ShippingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC07ShippingInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/008.TestNGProjects/Project19_Hubcomfy/Project19/src/test/java/tests/US_04"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/008.TestNGProjects/Project19_Hubcomfy/Project19/src/test/java/tests/US_04&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\008.TestNGProjects\Project19_Hubcomfy\Project19\src\test\java\tests\US_04" />
@@ -67,8 +66,8 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US04_TC08ProceedToCheckout">
-    <configuration name="US04_TC04ClearCart" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.US04_TC01AddFiveItems">
+    <configuration name="US04_TC01AddFiveItems" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project19" />
       <extension name="coverage">
         <pattern>
@@ -77,41 +76,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.US_04" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_04.US04_TC04ClearCart" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US04_TC05CouponChoice" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Project19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.US_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.US_04" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_04.US04_TC05CouponChoice" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US04_TC06ContinueShopping" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Project19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.US_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.US_04" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_04.US04_TC06ContinueShopping" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_04.US04_TC01AddFiveItems" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -153,13 +118,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tests.US_04.US02_TC01ValidSignIn and 8 more" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="tests.US_04.US02_TC01ValidSignIn" />
+        <pattern testClass="tests.US_04.US04_TC01AddFiveItems" />
+        <pattern testClass="tests.US_04.US04_TC02ChangeItemAmount" />
+        <pattern testClass="tests.US_04.US04_TC03UpdateCart" />
+        <pattern testClass="tests.US_04.US04_TC04ClearCart" />
+        <pattern testClass="tests.US_04.US04_TC05CouponChoice" />
+        <pattern testClass="tests.US_04.US04_TC06ContinueShopping" />
+        <pattern testClass="tests.US_04.US04_TC07ShippingInfo" />
+        <pattern testClass="tests.US_04.US04_TC08ProceedToCheckout" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.US_04.US04_TC01AddFiveItems and 7 more" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project19" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="tests.US_04.US04_TC01AddFiveItems" />
+        <pattern testClass="tests.US_04.US04_TC02ChangeItemAmount" />
+        <pattern testClass="tests.US_04.US04_TC03UpdateCart" />
+        <pattern testClass="tests.US_04.US04_TC04ClearCart" />
+        <pattern testClass="tests.US_04.US04_TC05CouponChoice" />
+        <pattern testClass="tests.US_04.US04_TC06ContinueShopping" />
+        <pattern testClass="tests.US_04.US04_TC07ShippingInfo" />
+        <pattern testClass="tests.US_04.US04_TC08ProceedToCheckout" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.US04_TC01AddFiveItems" />
+        <item itemvalue="TestNG.tests.US_04.US04_TC01AddFiveItems and 7 more" />
+        <item itemvalue="TestNG.tests.US_04.US02_TC01ValidSignIn and 8 more" />
         <item itemvalue="TestNG.US04_TC08ProceedToCheckout" />
         <item itemvalue="TestNG.US04_TC07ShippingInfo" />
-        <item itemvalue="TestNG.US04_TC06ContinueShopping" />
-        <item itemvalue="TestNG.US04_TC05CouponChoice" />
-        <item itemvalue="TestNG.US04_TC04ClearCart" />
       </list>
     </recent_temporary>
   </component>

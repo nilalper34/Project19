@@ -33,5 +33,7 @@ public class US04_TC07ShippingInfo  {
 
         softAssert.assertAll("Check Assertions");
 
+        Driver.getDriver().quit();
+
     }
 }
