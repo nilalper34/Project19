@@ -1,4 +1,4 @@
-package tests.US_0016;
+package tests.US_16;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;

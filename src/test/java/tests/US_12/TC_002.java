@@ -1,4 +1,4 @@
-package tests.US_0012;
+package tests.US_12;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
@@ -43,10 +43,10 @@ yaseminmethod yaseminmethod=new yaseminmethod();
         yaseminpgc.ilkSign_inButonu.click();
 
         //3-Username alanına valid bir username girer
-        yaseminpgc.usurname.sendKeys(ConfigReader.getProperty("hbcValidUserMail"));
+        yaseminpgc.usurname.sendKeys(ConfigReader.getProperty("hbcValidUserMailErhan"));
 
         // 4-Password alanına valid bir password girer
-        yaseminpgc.password.sendKeys(ConfigReader.getProperty("hbcValidPassworde"));
+        yaseminpgc.password.sendKeys(ConfigReader.getProperty("hbcValidPasswordErhan"));
 
         // 5-Sign in butonuna tıklar
         yaseminpgc.ikinciSign_inButonu.click();

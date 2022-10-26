@@ -1,4 +1,4 @@
-package tests.US_0016;
+package tests.US_16;
 
 import com.github.javafaker.Faker;
 import org.openqa.selenium.Keys;
