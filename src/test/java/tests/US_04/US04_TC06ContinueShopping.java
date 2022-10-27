@@ -18,5 +18,7 @@ public class US04_TC06ContinueShopping  {
 
         jse.executeScript("arguments[0].scrollIntoView(true);", erhanpgc.continueShoppingButton);
         jse.executeScript("arguments[0].click();", erhanpgc.continueShoppingButton);
+
+        Driver.getDriver().quit();
     }
 }

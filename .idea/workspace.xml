@@ -4,6 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
+    
+
     <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_03/US03_TC02.java" afterDir="false" />
@@ -18,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/hayrullahpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/hayrullahpgc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC08ProceedToCheckout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_04/US04_TC08ProceedToCheckout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +67,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/PC/Desktop/Proje19/Project19"
+
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\Desktop\Proje19\Project19\src\test\java\tests\US_20" />
@@ -79,8 +85,10 @@
       <recent name="tests.US_03" />
     </key>
   </component>
+
   <component name="RunManager" selected="TestNG.US20_TC04">
     <configuration name="US20_TC01" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Project19" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +96,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
       <option name="PACKAGE_NAME" value="tests.US_20" />
       <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC01" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -97,7 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US20_TC01.us20_tc01" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Project19" />
       <extension name="coverage">
         <pattern>
@@ -105,17 +115,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
       <option name="PACKAGE_NAME" value="tests.US_20" />
       <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC01" />
       <option name="METHOD_NAME" value="us20_tc01" />
       <option name="TEST_OBJECT" value="METHOD" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="US20_TC02" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Project19" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +137,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
       <option name="PACKAGE_NAME" value="tests.US_20" />
       <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC02" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -132,6 +148,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="US20_TC03" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project19" />
       <extension name="coverage">
@@ -143,12 +160,25 @@
       <option name="PACKAGE_NAME" value="tests.US_20" />
       <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC03" />
       <option name="TEST_OBJECT" value="CLASS" />
+
       <properties />
       <listeners />
+      <patterns>
+        <pattern testClass="tests.US_04.US02_TC01ValidSignIn" />
+        <pattern testClass="tests.US_04.US04_TC01AddFiveItems" />
+        <pattern testClass="tests.US_04.US04_TC02ChangeItemAmount" />
+        <pattern testClass="tests.US_04.US04_TC03UpdateCart" />
+        <pattern testClass="tests.US_04.US04_TC04ClearCart" />
+        <pattern testClass="tests.US_04.US04_TC05CouponChoice" />
+        <pattern testClass="tests.US_04.US04_TC06ContinueShopping" />
+        <pattern testClass="tests.US_04.US04_TC07ShippingInfo" />
+        <pattern testClass="tests.US_04.US04_TC08ProceedToCheckout" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="US20_TC04" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Project19" />
       <extension name="coverage">
@@ -160,19 +190,32 @@
       <option name="PACKAGE_NAME" value="tests.US_20" />
       <option name="MAIN_CLASS_NAME" value="tests.US_20.US20_TC04" />
       <option name="TEST_OBJECT" value="CLASS" />
+
       <properties />
       <listeners />
+      <patterns>
+        <pattern testClass="tests.US_04.US04_TC01AddFiveItems" />
+        <pattern testClass="tests.US_04.US04_TC02ChangeItemAmount" />
+        <pattern testClass="tests.US_04.US04_TC03UpdateCart" />
+        <pattern testClass="tests.US_04.US04_TC04ClearCart" />
+        <pattern testClass="tests.US_04.US04_TC05CouponChoice" />
+        <pattern testClass="tests.US_04.US04_TC06ContinueShopping" />
+        <pattern testClass="tests.US_04.US04_TC07ShippingInfo" />
+        <pattern testClass="tests.US_04.US04_TC08ProceedToCheckout" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="TestNG.US20_TC04" />
         <item itemvalue="TestNG.US20_TC03" />
         <item itemvalue="TestNG.US20_TC02" />
         <item itemvalue="TestNG.US20_TC01" />
         <item itemvalue="TestNG.US20_TC01.us20_tc01" />
+
       </list>
     </recent_temporary>
   </component>

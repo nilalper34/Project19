@@ -28,5 +28,7 @@ public class US04_TC05CouponChoice  {
 
         //8. Vendor Coupon secenegini gorebilmeli
         Assert.assertTrue(erhanpgc.applyCouponButton.isDisplayed(),"Check apply coupon button");
+
+        Driver.getDriver().quit();
     }
 }
