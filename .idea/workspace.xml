@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c5a6b85-96fc-41c9-a3c4-2ed7bfe4bf3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_01/US01_TC10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_02/US02_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_22/US22_TC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/MustafaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Mustafapgc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Senerpgc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Senerpgc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +27,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2GHRlcMN8ouHJzI3RH8Fkt1rKec" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Proje19/Project19/src/test/java/tests/US_22"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/msene/Project19&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\Desktop\Proje19\Project19\src\test\java\tests\US_22" />
@@ -73,8 +62,8 @@
       <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US22_TC04">
-    <configuration name="Tc_001.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.US018_TC003.Test01">
+    <configuration name="Tc_001.test01" type="TestNG" nameIsGenerated="true">
       <module name="Batch81_proje19_testNG" />
       <extension name="coverage">
         <pattern>
@@ -92,16 +81,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US02_TC01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Project19" />
+    <configuration name="US017_TC001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.US_02.*" />
+          <option name="PATTERN" value="tests.US_017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.US_02" />
-      <option name="MAIN_CLASS_NAME" value="tests.US_02.US02_TC01" />
+      <option name="PACKAGE_NAME" value="tests.US_017" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_017.US017_TC001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -109,7 +98,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US22_TC04" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="US017_TC002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_017" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_017.US017_TC002" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US017_TC003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_017" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_017.US017_TC003" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US018_TC003.Test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_018" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_018.US018_TC003" />
+      <option name="METHOD_NAME" value="Test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US22_TC04 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch81_proje19_testNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.US_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.US_22" />
+      <option name="MAIN_CLASS_NAME" value="tests.US_22.US22_TC04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US22_TC04" type="TestNG" nameIsGenerated="true">
       <module name="Project19" />
       <extension name="coverage">
         <pattern>
@@ -128,9 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.US22_TC04" />
-        <item itemvalue="TestNG.US02_TC01" />
-        <item itemvalue="TestNG.Tc_001.test01" />
+        <item itemvalue="TestNG.US018_TC003.Test01" />
+        <item itemvalue="TestNG.US017_TC003" />
+        <item itemvalue="TestNG.US017_TC002" />
+        <item itemvalue="TestNG.US017_TC001" />
+        <item itemvalue="TestNG.US22_TC04 (1)" />
       </list>
     </recent_temporary>
   </component>
