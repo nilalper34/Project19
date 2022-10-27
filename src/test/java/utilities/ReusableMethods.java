@@ -32,6 +32,18 @@ public class ReusableMethods {
         FileUtils.copyFile(source, finalDestination);
         return target;
     }
+    //========ScreenShot Web Element(Bir webelementin resmini alma)=====//
+    public static String getScreenshotWebElement(String name,WebElement element) throws IOException {
+        String date = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+        // TakesScreenshot is an interface of selenium that takes the screenshot
+        File source = element.getScreenshotAs(OutputType.FILE);
+        // full path to the screenshot location
+        String wElementSS = System.getProperty("user.dir") + "/target/WElementScreenshots/" + name + date + ".png";
+        File finalDestination = new File(wElementSS);
+        // save the screenshot to the path given
+        FileUtils.copyFile(source, finalDestination);
+        return wElementSS;
+    }
 
     //========Switching Window=====//
     public static void switchToWindow(String targetTitle) {
@@ -148,6 +160,16 @@ public class ReusableMethods {
         });
 
         return element;
+    }
+    public static void jsclick(WebElement webElement) {
+        JavascriptExecutor js = (JavascriptExecutor) Driver.getDriver();
+        js.executeScript("arguments[0].click();", webElement);
+        try {
+            webElement.click();
+        } catch (Exception e) {
+            JavascriptExecutor executor = (JavascriptExecutor) Driver.getDriver();
+            executor.executeScript("arguments[0].click();", webElement);
+        }
     }
 
 }
